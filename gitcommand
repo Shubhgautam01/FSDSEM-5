@@ -2,3 +2,4 @@ git remote --v :- to know my code save in which folder/repositry
 git remote remove origin :- to remove origin 
 git remote :- to check origin is removed or not 
 git remote add origin https:/path copy from github :- to add origin 
+git log :- to know when you update last

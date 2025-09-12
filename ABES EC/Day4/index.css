@@ -12,6 +12,11 @@
     height: 250px;
     background-color: antiquewhite;
 }
+
+.box :hover {
+    border: 2px solid black;
+}
+
 .box:nth-child(1) {
     background-color: rgb(255, 99, 71);
     display: flex;
