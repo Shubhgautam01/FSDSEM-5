@@ -10,7 +10,7 @@ let  b = 56;
 b = 54;
 console.log(b);//reassignment 
 
-const pi 3.14 // assignment
+const pi =3.14 // assignment
 
 
 const pi= 3.14;

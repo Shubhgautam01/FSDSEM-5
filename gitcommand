@@ -3,3 +3,9 @@ git remote remove origin :- to remove origin
 git remote :- to check origin is removed or not 
 git remote add origin https:/path copy from github :- to add origin 
 git log :- to know when you update last
+
+
+
+git add .
+git commit -m" "
+git push
