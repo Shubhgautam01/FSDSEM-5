@@ -1,0 +1,81 @@
+import product from `./product.json`;
+
+product[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "image": "https://via.placeholder.com/300x300.png?text=Headphones"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Series 5",
+    "image": "https://via.placeholder.com/300x300.png?text=Smart+Watch"
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse RGB",
+    "image": "https://via.placeholder.com/300x300.png?text=Gaming+Mouse"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "image": "https://via.placeholder.com/300x300.png?text=Keyboard"
+  },
+  {
+    "id": 5,
+    "name": "4K Ultra HD Monitor",
+    "image": "https://via.placeholder.com/300x300.png?text=Monitor"
+  },
+  {
+    "id": 6,
+    "name": "Portable Bluetooth Speaker",
+    "image": "https://via.placeholder.com/300x300.png?text=Speaker"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Charging Pad",
+    "image": "https://via.placeholder.com/300x300.png?text=Charging+Pad"
+  },
+  {
+    "id": 8,
+    "name": "Fitness Tracker Band",
+    "image": "https://via.placeholder.com/300x300.png?text=Fitness+Band"
+  },
+  {
+    "id": 9,
+    "name": "Noise Cancelling Earbuds",
+    "image": "https://via.placeholder.com/300x300.png?text=Earbuds"
+  },
+  {
+    "id": 10,
+    "name": "Laptop Backpack",
+    "image": "https://via.placeholder.com/300x300.png?text=Backpack"
+  },
+  {
+    "id": 11,
+    "name": "Smartphone Tripod Stand",
+    "image": "https://via.placeholder.com/300x300.png?text=Tripod"
+  },
+  {
+    "id": 12,
+    "name": "USB-C Hub Adapter",
+    "image": "https://via.placeholder.com/300x300.png?text=USB-C+Hub"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Gaming Controller",
+    "image": "https://via.placeholder.com/300x300.png?text=Controller"
+  },
+  {
+    "id": 14,
+    "name": "LED Desk Lamp",
+    "image": "https://via.placeholder.com/300x300.png?text=Desk+Lamp"
+  },
+  {
+    "id": 15,
+    "name": "External Hard Drive 1TB",
+    "image": "https://via.placeholder.com/300x300.png?text=Hard+Drive"
+  }
+]
+
+
